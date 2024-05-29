@@ -1,0 +1,6 @@
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\bin\Debug\JaratKezeloProject.dll
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\bin\Debug\JaratKezeloProject.pdb
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\obj\Debug\JaratKezeloProject.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\obj\Debug\JaratKezeloProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\obj\Debug\JaratKezeloProject.dll
+C:\Users\hp\OneDrive\Asztali gép\Iskola\C#\JaratKezeloProject\JaratKezeloProject\obj\Debug\JaratKezeloProject.pdb
