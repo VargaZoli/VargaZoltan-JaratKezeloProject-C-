@@ -34,7 +34,7 @@ namespace JaratKezeloProject
             {
                 throw new ArgumentException("Már létezik ilyen járatszám.");
             }
-
+             
             jaratok[jaratSzam] = new Jarat(jaratSzam, repterHonnan, repterHova, indulas);
         }
 
